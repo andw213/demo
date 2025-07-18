@@ -30,4 +30,3 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
-// Código parece feito por pessoa, não por IA.
