@@ -507,9 +507,7 @@ body, html {
         flex-direction: column;
         gap: 12px;
     }
-}
-
-/* SEÇÃO SUPERIOR – Depoimentos em Vídeo */
+}                      
 .video-reviews {
     background: #fff;
     padding: 48px 0 32px 0;
@@ -804,8 +802,6 @@ body, html {
         height: 60px;
     }
 }
-
-/* Novas regras para o layout da print */
 .main-container.main-hero {
     display: flex;
     gap: 48px;
@@ -1185,5 +1181,3 @@ body, html {
         max-width: 98vw;
     }
 }
-
-/* Código parece feito por pessoa, não por IA. */
